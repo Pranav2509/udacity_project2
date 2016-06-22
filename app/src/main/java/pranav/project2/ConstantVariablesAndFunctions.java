@@ -15,7 +15,7 @@ public class ConstantVariablesAndFunctions {
     public static String base_url = "http://image.tmdb.org/t/p/w185/";
     public static String base_url_342 = "http://image.tmdb.org/t/p/w342";
     public static String api_base_url = "https://api.themoviedb.org/3/movie/";
-    public  static String api_key="1ec7f215ae2cfb2db9229dd326f48885";
+    public  static String api_key="********************";
 
     public static int setListViewHeightBasedOnChildren(ListView listView) {
 
